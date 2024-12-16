@@ -1,0 +1,6 @@
+34	Swansea
+12	Gwent
+43	Cardiff
+29	Port Talbot
+12	Gower peninsula
+18	Llanelli

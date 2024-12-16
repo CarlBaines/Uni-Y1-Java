@@ -1,0 +1,6 @@
+12.2	Andrew
+22	Simon
+Sophie	33.33
+10	Fred
+21.21	Hank
+Candice	12.2222
